@@ -1,0 +1,51 @@
+/*Nama: Dinda Zelika Muthi Frida
+Nim: 252520098
+Kelas: TI/B*/
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    text-align: center;
+    color: #245b85;
+}
+
+nav {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 20px;
+    background-color: #dceaf5;
+    padding: 15px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #245b85;
+    font-weight: bold;
+    padding: 5px;
+}
+
+nav a:hover {
+    color: #e67e22;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 25px;
+}
+
+h2 {
+    color: #245b85;
+}
